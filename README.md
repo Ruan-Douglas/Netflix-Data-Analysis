@@ -52,6 +52,6 @@ O conjunto de dados foi obtido da [Kaggle - Netflix Titles](https://www.kaggle.c
 ## 👨‍💻 Autor
 
 Ruan Douglas – Estudante de Ciência de Dados  
-[LinkedIn](www.linkedin.com/in/ruan-alves-438174314)
+[LinkedIn](https://www.linkedin.com/in/ruan-alves-438174314)
 
 ---
