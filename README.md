@@ -1,2 +1,3 @@
 # Netflix Data Analysis
-Análise de Dados - Netflix
+
+Análise de Dados feita através do dataset da Netflix, disponibilizado pela Kaggle.
