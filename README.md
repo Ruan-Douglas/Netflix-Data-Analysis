@@ -39,16 +39,15 @@ O conjunto de dados foi obtido da [Kaggle - Netflix Titles](https://www.kaggle.c
 ## Conclusões
 
 - Filmes representam a maior parte do catálogo.
-- Estados Unidos lideram a produção de conteúdo, seguidos por países como Índia, Reino Unido e Canadá.
-- Drama e Comédia são os gêneros mais comuns.
+- Estados Unidos lideram a produção de conteúdo, seguidos por países como Índia e Reino Unido.
+- Drama e Comédia são os gêneros mais comuns tanto em filmes quanto em séries.
 - A maioria das séries possui apenas 1 temporada, indicando minisséries ou cancelamentos rápidos.
 
 ## Possíveis Melhorias Futuras
 
-- [] Analisar a diferença entre a data de lançamento original e a chegada à Netflix.
-- [] Analisar as Co-produções mais frequentes
-- [] Integrar o projeto ao Power BI para visualizações interativas.
-- [] Explorar outras bibliotecas como seaborn ou plotly.
+- [ ] Analisar a diferença entre a data de lançamento original e a chegada à Netflix.
+- [ ] Analisar as Co-produções mais frequentes.
+- [ ] Explorar outras bibliotecas como seaborn ou plotly.
 
 ## Autor
 
